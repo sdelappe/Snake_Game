@@ -1,0 +1,10 @@
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\sdela\OneDrive\Desktop\Snake\Snake\Snake\obj\Debug\Snake.pdb
